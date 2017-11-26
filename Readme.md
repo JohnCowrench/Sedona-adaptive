@@ -57,4 +57,4 @@ git clone SSH-адрес_вашего_форка
 [dependency-image]: https://david-dm.org/htmlacademy-adaptive/498289-sedona/dev-status.svg?style=flat-square
 [dependency-url]: https://david-dm.org/htmlacademy-adaptive/498289-sedona?type=dev
 
-dfsfldj
+12345
