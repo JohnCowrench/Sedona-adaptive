@@ -1,6 +1,6 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Валерий Болотин](https://up.htmlacademy.ru/adaptive/12/user/498289).
+* Студент: [Марина Ваганова](https://up.htmlacademy.ru/adaptive/12/user/498289).
 * Наставник: `Неизвестно`.
 
 ---
@@ -56,5 +56,3 @@ git clone SSH-адрес_вашего_форка
 [travis-url]: https://travis-ci.org/htmlacademy-adaptive/498289-sedona
 [dependency-image]: https://david-dm.org/htmlacademy-adaptive/498289-sedona/dev-status.svg?style=flat-square
 [dependency-url]: https://david-dm.org/htmlacademy-adaptive/498289-sedona?type=dev
-
-12345
