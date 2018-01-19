@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Марина Ваганова](https://up.htmlacademy.ru/adaptive/12/user/498289).
-* Наставник: `Неизвестно`.
+* Студент: [Вячеслав Солодовников](https://up.htmlacademy.ru/adaptive/12/user/499135).
+* Наставник: [Сергей Зубов].
 
 ---
 
@@ -52,7 +52,7 @@ git clone SSH-адрес_вашего_форка
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Продвинутый HTML и CSS](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
-[travis-image]: https://travis-ci.org/htmlacademy-adaptive/498289-sedona.svg?branch=master
-[travis-url]: https://travis-ci.org/htmlacademy-adaptive/498289-sedona
-[dependency-image]: https://david-dm.org/htmlacademy-adaptive/498289-sedona/dev-status.svg?style=flat-square
-[dependency-url]: https://david-dm.org/htmlacademy-adaptive/498289-sedona?type=dev
+[travis-image]: https://travis-ci.org/htmlacademy-adaptive/499135-sedona.svg?branch=master
+[travis-url]: https://travis-ci.org/htmlacademy-adaptive/499135-sedona
+[dependency-image]: https://david-dm.org/htmlacademy-adaptive/499135-sedona/dev-status.svg?style=flat-square
+[dependency-url]: https://david-dm.org/htmlacademy-adaptive/499135-sedona?type=dev
